@@ -33,7 +33,7 @@ body {
   background-color: #036101;
 }
 .home-inner {
-  background-image: url(img/bg.jpg);
+  background-image: url(bg.jpg);
 }
 .caption {
   width: 50%;
@@ -85,7 +85,7 @@ body {
 }
 
 .left {
-  background-image: url(img/doc2.jpg);
+  background-image: url(doc2.jpg);
   background-size: cover;
 }
 .left h1 {
@@ -103,7 +103,7 @@ body {
   margin-bottom: 3rem;
 }
 .right {
-  background-image: url(img/right.png);
+  background-image: url(right.png);
   background-size: cover;
 }
 .right h1 {
@@ -144,7 +144,7 @@ body {
   cursor: pointer;
 }
 #video {
-  background-image: url(img/syringe.jpg);
+  background-image: url(syringe.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
